@@ -1,4 +1,5 @@
 Read the PDF file for an overview of this "zero" prototype.
+Additional documentation files are in the [Documentation] folder.
 
 The Sketch file is in the [sketch_Prototype_0.3] folder.
 
