@@ -4,6 +4,8 @@ Prototype systems developed in support of undergraduate research on
 micro-behavioral patterns, multimodal sensing, and AI at California
 State University, San Bernardino.
 
+All 3d-prints were co-designed with my father, Robert Donnelly (1979-2019 NAVSEA retired)
+
 ## Current Prototypes
 
 ### Prototype 0.3 — ESP32-CYD + MPU-6050
